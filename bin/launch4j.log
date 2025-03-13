@@ -1,0 +1,229 @@
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\COLLEGE\FlappyBird\src\flappybird.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\COLLEGE\FlappyBird\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\PowerShell\7\;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\panup\AppData\Local\Microsoft\WindowsApps;C:\Users\panup\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\panup\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin;C:\Users\panup\AppData\Roaming\npm;C:\Users\panup\AppData\Local\spicetify;C:\Users\panup\AppData\Local\GitHubDesktop\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\COLLEGE\FlappyBird\src\flappybird.exe"
+Args length:	47/32768 chars
+Exit code:	1
